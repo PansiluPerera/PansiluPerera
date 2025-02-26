@@ -1,13 +1,24 @@
-#  Welcome to My GitHub Profile! 👋
+# 🚀 Welcome to My GitHub Profile! 👋  
 
-## 🚀 About Me
-Hey there! I'm **Pansilu Perera**, a passionate developer exploring **AI, robotics, and automation**. I love working on **real-time systems**, **NLP**, and **machine learning**. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pansilu+Perera;AI+%7C+Robotics+%7C+Automation+Enthusiast;Exploring+Real-Time+Systems+and+Deep+Learning;Passionate+about+NLP+%26+Edge+Computing" alt="Typing SVG" />
+</p>
 
-- 🔭 Currently developing **Kyan**, a bot with real-time facial expressions & sentiment analysis.
-- 🌱 Exploring **deep learning**, **edge computing**, and **real-time event-driven architectures**.
-- 🎯 Always open to **collaborations** and **exciting new projects**!
+## 👨‍💻 About Me  
+🔹 I specialize in **real-time systems, AI, NLP, and machine learning**.  
+🔹 Currently developing **Kyan** – an AI-driven bot with **real-time facial expressions & sentiment analysis**.  
+🔹 Exploring **deep learning, edge computing, and event-driven architectures**.  
+🔹 Passionate about **healthcare tech, automation, and human-AI interaction**.  
 
----
+### 💡 What I Do  
+📌 **Building smart systems** 🏗️  
+📌 **Developing AI-powered bots** 🤖  
+📌 **Optimizing speech & emotion recognition** 🎙️  
+
+### 🎯 Open to Collaborations  
+🚀 Always excited to **connect, innovate, and build**! Let's create something amazing together.  
+
+
 
 ## 📊 GitHub Analytics & Stats
 
@@ -18,20 +29,81 @@ Hey there! I'm **Pansilu Perera**, a passionate developer exploring **AI, roboti
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PansiluPerera&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 💻 My Tech Stack
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PansiluPerera&theme=radical"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
+
+
+## 🛠 Tech Stack
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-skyblue?style=for-the-badge&logo=dart"/>
+  </a>
+
+  <!-- Frameworks & Libraries -->
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring"/>
+  </a>
+
+  <!-- AI & Machine Learning -->
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  </a>
+  <a href="https://www.opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv"/>
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
+  </a>
+
+  <!-- DevOps & Tools -->
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure"/>
+  </a>
+</p>
+
 
 ---
 
