@@ -12,7 +12,8 @@ Hey there! I'm **Pansilu Perera**, a passionate developer exploring **AI, roboti
 ## 📊 GitHub Analytics & Stats
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=PansiluPerera&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PansiluPerera&theme=radical&hide_border=true)
+
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PansiluPerera&show_icons=true&theme=tokyonight&hide_border=true)
