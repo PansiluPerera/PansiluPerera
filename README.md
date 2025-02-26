@@ -41,7 +41,8 @@ Hey there! I'm **Pansilu Perera**, a passionate developer exploring **AI, roboti
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PansiluPerera&theme=tokyonight&no-frame=true&column=6)
 
 ### 🛠 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PansiluPerera)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PansiluPerera&theme=github)](https://github.com/PansiluPerera)
+
 
 ---
 
