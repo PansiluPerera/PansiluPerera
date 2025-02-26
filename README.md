@@ -22,11 +22,9 @@
 
 🔹 Passionate about **healthcare tech, automation, and human-AI interaction**.  
 
-<br>  
 
 ---
 
-<br>  
 
 ## 💡 What I Do  
 
@@ -35,12 +33,9 @@
 📌 **Developing AI-powered bots** 🤖  
 
 📌 **Optimizing speech & emotion recognition** 🎙️  
-
-<br>  
-
+ 
 ---
 
-<br>  
 
 ## 🎯 Open to Collaborations  
 
@@ -48,11 +43,7 @@
 
 💡 Let's create something amazing together.  
 
-<br>  
-
 ---
-
-<br>  
 
 ## 📊 GitHub Analytics & Stats  
 
@@ -61,8 +52,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=PansiluPerera&theme=radical&hide_border=true"/>
 </p>
-
-<br>  
 
 ### 📈 GitHub Stats  
 
@@ -141,11 +130,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PansiluPerera&theme=tokyonight&no-frame=true&column=6"/>
 </p>
 
-<br>  
-
 ---
-
-<br>  
 
 ## 🌎 Connect With Me  
 
@@ -161,17 +146,12 @@
   </a>
 </p>
 
-<br>  
-
 ---
 
-<br>  
 
 ## 🎌 Quote  
 
 ⚡ *"Procrastination is the death of coders"*  
-
-<br>  
 
 ---
 
